@@ -1,12 +1,9 @@
-import React from 'react'
-
 export    const NavBar = () => {
 
 
     return (
         <header className="navbar">
             <h1>LOGO</h1>
-
         <nav>
             <a href="#">enlace</a>
             <a href="#">enlace</a>

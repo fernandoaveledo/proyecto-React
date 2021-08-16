@@ -1,8 +1,8 @@
-import React from 'react'
+import './ItemlistContainer.scss'
 
 const ItemListContainer = () => {
     return (
-        <div>
+        <div classname="itemListContainer">
             <h2>pix defense</h2>
             <hr/>
         </div>
