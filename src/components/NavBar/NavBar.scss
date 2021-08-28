@@ -3,13 +3,19 @@
     justify-content: space-between;
     align-items: center;
     padding: 20px 10%;
-    background-color: gray;
-    color: white;
+    background-color: #ffcced;
+    color: rgb(0, 0, 0);
     h1 {
         font-size: 40px;
         font-weight: 700;
         text-transform: uppercase;
     }
-    
+    .cartWidget {
+        font-size: 30px;
+        color: rgb(0, 0, 0);
+    }
 }
 
+.espacio {
+    padding:20px;
+}

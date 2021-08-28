@@ -17,9 +17,4 @@ export const ClickTracker =() => {
         <p>clicks: {contador}</p>
         </div>
     )
-
-
-
-
-
 }
