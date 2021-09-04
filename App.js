@@ -1,4 +1,4 @@
-import { NavBar } from "./components/NavBar/navBar.js";
+import { NavBar } from "./components/NavBar/NavBar";
 import './styles/styles.scss'
 import 'bootstrap/dist/css/bootstrap.min.css';
 import { ItemListContainer } from "./components/ItemListContainer/ItemListContainer";

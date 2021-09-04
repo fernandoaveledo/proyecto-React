@@ -13,9 +13,9 @@ export const NavBar = () => {
 
             <nav>
                 <Link className="mx-1" to={"/"}>Inicio</Link>
-                <Link className="mx-1" to={"/category/gas-pimienta"}>Gas pimienta</Link>
-                <Link className="mx-1" to={"/category/llavero"}>Kubotan</Link>
-                <Link className="mx-1" to={"/category/llavero"}>Llavero</Link>
+                <Link className="mx-1" to={"/category/calzado"}>Calzado</Link>
+                <Link className="mx-1" to={"/category/remeras"}>Remeras</Link>
+                <Link className="mx-1" to={"/category/pantalones"}>Pantalones</Link>
             </nav>
 
             <CartWidget/>
